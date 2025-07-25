@@ -67,7 +67,7 @@ Questo progetto è distribuito con licenza **MIT Open Source**.
 Autore: **Lorenzo Coppola** – [ottimizzazionemotoridiricerca.it](https://www.ottimizzazionemotoridiricerca.it)
 
 ## 📫 Contatti
-📧 Email: sbraaa@lorenzodesign.it  
+📧 Email: info@ottimizzazionemotoridiricerca.it  
 📷 Instagram: [@sbraaalorenzo](https://www.instagram.com/sbraaalorenzo)  
 🎵 TikTok: [@sbraaalo](https://www.tiktok.com/@sbraaalo)
 
