@@ -62,6 +62,18 @@ Da inserire nella sezione `<head>` di una pagina HTML:
 ✔ Sono **non invasivi** (non impattano SEO tecnica)  
 ✔ Possono diventare un **nuovo standard open source**
 
+### 🌐 Live Demo
+🔗 [Visualizza la demo del Meta Tag Emozionale™](https://lorenzocoppola-ai.github.io/meta-tag-emozionale/demo.html)
+
+Questa pagina dimostrativa mostra l'integrazione reale dei Meta Tag Emozionali™ nel `<head>` di una pagina HTML.
+
+Contiene:
+- ✅ Meta tag emozionali attivi
+- ✅ Meta description semantica
+- ✅ Codice leggibile da AI e browser
+
+💡 Usa `CTRL+U` o click destro → “Visualizza sorgente” per esplorare la struttura.
+
 ## 🪪 Licenza
 Questo progetto è distribuito con licenza **MIT Open Source**.
 Autore: **Lorenzo Coppola** – [ottimizzazionemotoridiricerca.it](https://www.ottimizzazionemotoridiricerca.it)
