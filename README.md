@@ -1,5 +1,5 @@
 # Meta Tag Emozionale™ – Sistema di codifica emozionale per il Web Semantico
-Ideato da **Lorenzo Coppola**, AI-Driven SEO Strategist e autore del progetto [Markup Emozionale](https://github.com/lorenzocoppola-ai/markup-emozionale), del progetto [EmoTag](https://github.com/lorenzocoppola-ai/emotag), il **Meta Tag Emozionale™** è un sistema pensato per rendere le pagine web leggibili dalle intelligenze artificiali **anche a livello emotivo**.
+Ideato da **Lorenzo Coppola**, AI-Driven SEO Strategist e autore del progetto [Markup Emozionale](https://github.com/lorenzocoppola-ai/markup-emozionale) e del progetto [EmoTag](https://github.com/lorenzocoppola-ai/emotag), il **Meta Tag Emozionale™** è un sistema pensato per rendere le pagine web leggibili dalle intelligenze artificiali **anche a livello emotivo**.
 
 ## 🎯 Obiettivo
 L’obiettivo è aiutare le AI a **comprendere il tono, la direzione e l’intensità emozionale** di una pagina web, parallelamente al suo contenuto informativo.
