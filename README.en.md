@@ -70,6 +70,18 @@ To be inserted in the `<head>` section of any HTML document:
 ✔ **Non-invasive** (does not affect SEO or performance)  
 ✔ Can become a **new open-source standard**
 
+### 🌐 Live Demo
+🔗 [View the demo of the Emotional Meta Tag™](https://lorenzocoppola-ai.github.io/meta-tag-emozionale/demo.html)
+
+This sample page demonstrates the real implementation of Emotional Meta Tags™ in the `<head>` of an HTML page.
+
+It includes:
+- ✅ Active emotional meta tags
+- ✅ Semantic meta description
+- ✅ Clean HTML code readable by both AI and browsers
+
+💡 Use `CTRL+U` or right-click → “View page source” to explore the structure.
+
 ## 🪪 License
 MIT Open Source License  
 Author: **Lorenzo Coppola** – [ottimizzazionemotoridiricerca.it](https://www.ottimizzazionemotoridiricerca.it)
